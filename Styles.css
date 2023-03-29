@@ -1,4 +1,9 @@
 h1 {
-    color:brown
-    text-aline: center
+    color:brown;
+    text-align:center;
+}
+
+div.main{
+            width: 80%;
+            height: 80%;
 }
