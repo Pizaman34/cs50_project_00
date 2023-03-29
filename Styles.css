@@ -1,10 +1,20 @@
-h1 {
-    color:brown;
-    text-align:center;
+body {
+    height: 80%;
+    width: 80%;
+    color: aquamarine;
 }
 
-div.main{
-            align-content: center;
-            width: 80%;
-            height: 80%;
+h1 {
+    
+}
+
+.bigfont{
+            background-color:yellowgreen;
+            width: 100%;
+            height: 60px;
+            padding: px;
+            margin: 5px;
+            color:red;
+            text-align:center;
+            font-size: 50px;
 }
